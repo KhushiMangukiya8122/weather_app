@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+<img align="left" src="https://github.com/KhushiMangukiya8122/weather_app/assets/131368294/4216dd2f-dd07-4c2a-abf1-aa7a553593f1" width="220px">
+<img align="left" src="https://github.com/KhushiMangukiya8122/weather_app/assets/131368294/06e2245d-d5f3-4c0f-ab59-a2a3d52045c5" width="220px">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
